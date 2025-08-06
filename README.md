@@ -103,3 +103,5 @@ flutter build apk --release
 # For iOS
 flutter build ios --release
 ```
+## 📽️ video preview
+[!thumb.jpg](https://vimeo.com/1107649798?share=copy)
